@@ -263,7 +263,7 @@ class ItemCardTest {
 
 ## 📱 Screenshots
 
-[Add screenshots of your template app's key screens]
+--
 
 ## � Deployment Instructions
 
@@ -395,7 +395,10 @@ implementation("androidx.room:room-runtime:2.6.0")
 
 ## 📄 License
 
-[Add your license information here]
+License type: MIT
+App name: Android Template
+Year: 2025
+Owner name: Manikandan K
 
 ## 🤝 Contributing
 
@@ -409,6 +412,6 @@ Feel free to contribute to this template:
 
 ## 📬 Contact
 
-Your Name - [Add your contact information]
+Manikandan Kasinathan
 
 Project Link: [https://github.com/AndroidManikandan5689/android-template-jetpack-compose](https://github.com/AndroidManikandan5689/android-template-jetpack-compose)
